@@ -1,0 +1,147 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ForEach",
+            "request": "launch",
+            "mainClass": "com.tutorial.ForEach",
+            "projectName": "00 - Template_cef0f612"
+        },
+        {
+            "type": "java",
+            "name": "Continue",
+            "request": "launch",
+            "mainClass": "com.tutorial.Continue",
+            "projectName": "00 - Template_cef0f612"
+        },
+        {
+            "type": "java",
+            "name": "BreakContinue",
+            "request": "launch",
+            "mainClass": "com.tutorial.BreakContinue",
+            "projectName": "00 - Template_cef0f612"
+        },
+        {
+            "type": "java",
+            "name": "DoWhileLoop",
+            "request": "launch",
+            "mainClass": "com.tutorial.DoWhileLoop",
+            "projectName": "00 - Template_cef0f612"
+        },
+        {
+            "type": "java",
+            "name": "WhileLoop",
+            "request": "launch",
+            "mainClass": "com.tutorial.WhileLoop",
+            "projectName": "00 - Template_cef0f612"
+        },
+        {
+            "type": "java",
+            "name": "ForLoop",
+            "request": "launch",
+            "mainClass": "com.tutorial.ForLoop",
+            "projectName": "00 - Template_cef0f612"
+        },
+        {
+            "type": "java",
+            "name": "TernaryOperator",
+            "request": "launch",
+            "mainClass": "com.tutorial.TernaryOperator",
+            "projectName": "00 - Template_cef0f612"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Boolean",
+            "request": "launch",
+            "mainClass": "com.tutorial.Boolean",
+            "projectName": "00 - Template_cef0f612"
+        },
+        {
+            "type": "java",
+            "name": "CharacterDataType",
+            "request": "launch",
+            "mainClass": "com.tutorial.CharacterDataType",
+            "projectName": "00 - Template_cef0f612"
+        },
+        {
+            "type": "java",
+            "name": "ExpressionStatementBlock",
+            "request": "launch",
+            "mainClass": "com.tutorial.ExpressionStatementBlock",
+            "projectName": "00 - Template_cef0f612"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorld",
+            "request": "launch",
+            "mainClass": "com.tutorial.HelloWorld",
+            "projectName": "00 - Template_cef0f612"
+        },
+        {
+            "type": "java",
+            "name": "IfStatement",
+            "request": "launch",
+            "mainClass": "com.tutorial.IfStatement",
+            "projectName": "00 - Template_cef0f612"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "com.tutorial.Main",
+            "projectName": "00 - Template_cef0f612"
+        },
+        {
+            "type": "java",
+            "name": "NumericDataType",
+            "request": "launch",
+            "mainClass": "com.tutorial.NumericDataType",
+            "projectName": "00 - Template_cef0f612"
+        },
+        {
+            "type": "java",
+            "name": "OperationsInJava",
+            "request": "launch",
+            "mainClass": "com.tutorial.OperationsInJava",
+            "projectName": "00 - Template_cef0f612"
+        },
+        {
+            "type": "java",
+            "name": "StringDataType",
+            "request": "launch",
+            "mainClass": "com.tutorial.StringDataType",
+            "projectName": "00 - Template_cef0f612"
+        },
+        {
+            "type": "java",
+            "name": "SwitchStatement",
+            "request": "launch",
+            "mainClass": "com.tutorial.SwitchStatement",
+            "projectName": "00 - Template_cef0f612"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "com.tutorial.Test",
+            "projectName": "00 - Template_cef0f612"
+        },
+        {
+            "type": "java",
+            "name": "Variable",
+            "request": "launch",
+            "mainClass": "com.tutorial.Variable",
+            "projectName": "00 - Template_cef0f612"
+        }
+    ]
+}
