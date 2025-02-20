@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Method",
+            "request": "launch",
+            "mainClass": "com.tutorial.Method",
+            "projectName": "00 - Template_cef0f612"
+        },
+        {
+            "type": "java",
             "name": "ForEach",
             "request": "launch",
             "mainClass": "com.tutorial.ForEach",
