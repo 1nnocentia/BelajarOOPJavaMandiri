@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RecursiveMethod",
+            "request": "launch",
+            "mainClass": "com.tutorial.RecursiveMethod",
+            "projectName": "00 - Template_cef0f612"
+        },
+        {
+            "type": "java",
+            "name": "MethodOverloading",
+            "request": "launch",
+            "mainClass": "com.tutorial.MethodOverloading",
+            "projectName": "00 - Template_cef0f612"
+        },
+        {
+            "type": "java",
+            "name": "MethodVariableArgument",
+            "request": "launch",
+            "mainClass": "com.tutorial.MethodVariableArgument",
+            "projectName": "00 - Template_cef0f612"
+        },
+        {
+            "type": "java",
             "name": "ReturnValue",
             "request": "launch",
             "mainClass": "com.tutorial.ReturnValue",
